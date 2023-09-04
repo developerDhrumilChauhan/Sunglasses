@@ -1,0 +1,14 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "template"
+    },
+    "answers": {
+      "name": "BdroppySunglasses",
+      "author": "Dhrumil Chauhan",
+      "type": "template",
+      "description": "Template",
+      "version": "1.0.0"
+    }
+  }
+}
