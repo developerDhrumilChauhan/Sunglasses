@@ -1,0 +1,11 @@
+{
+    "name"              :   "BdroppySunglasses",
+    "namespace"         :   "BdroppySunglasses",
+    "type"              :   "template",
+    "version"           :   "1.0.0",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "Template",
+    "author"            :   "Dhrumil Chauhan",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "BdroppySunglasses\\Providers\\BdroppySunglassesServiceProvider"
+}
