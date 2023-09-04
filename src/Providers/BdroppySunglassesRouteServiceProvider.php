@@ -17,5 +17,6 @@ class BdroppySunglassesRouteServiceProvider extends RouteServiceProvider
     public function map(Router $router)
     {
         $router->get('hello-world','BdroppySunglasses\Controllers\BdroppySunglassesController@getHelloWorldPage');
+        $router->get('topitems', 'BdroppySunglasses\Controllers\BdroppySunglassesController@showTopItems');
     }
 }
